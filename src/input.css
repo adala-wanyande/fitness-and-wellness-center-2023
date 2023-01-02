@@ -36,3 +36,24 @@ svg {
       transform: translate3d(4px, 0, 0);
     }
   }
+
+#addWorkoutSessionTabContent {
+  /* visibility: hidden; */
+}
+
+#addFootballSessionTabContent {
+  /* display: none; */
+}
+
+.navButton {
+  cursor: pointer;
+}
+
+.tabcontent {
+  display: none;
+}
+
+/* .main-content-container {
+  margin-left: 160px;
+  margin-right: 160px;
+} */

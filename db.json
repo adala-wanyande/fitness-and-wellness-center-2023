@@ -1,0 +1,19 @@
+{
+  "footballSessions": [],
+  "workoutSessions": [
+    {
+      "id": 1,
+      "date": "",
+      "timeStarted": "",
+      "timeEnded": "",
+      "generalTimeOfDay": "",
+      "intensity": "",
+      "venue": "",
+      "focusArea": "",
+      "details": [],
+      "soloOrGroupWorkout": "",
+      "workoutBuddy": "",
+      "photos": []
+    }
+  ]
+}
